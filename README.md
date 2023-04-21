@@ -5,7 +5,7 @@
 
 ## Introduction
 This project implements LEA-256 in Java, JavaScript, and C languages. 
-LEA-256 is a symmetric key block cipher algorithm developed by the Korea Internet & Security Agency (KISA).
+LEA(Lightweight Encryption Algorithm) is a symmetric key block cipher algorithm developed by the Korea Internet & Security Agency (KISA).
 
 ## Usage
 In the main function of each file, encryption and decryption are performed for the LEA-256 test vectors. The decrypted value is then checked to ensure that it matches the original message. The test vectors are as follows:
