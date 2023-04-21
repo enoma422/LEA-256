@@ -1,6 +1,4 @@
-# LEA-256
-
-# LEA-256 Implementation (using Java, JavaScript, and C)
+# LEA-256 Implementation (Java, JavaScript, and C)
 
 ## Introduction
 This project implements LEA-256 in Java, JavaScript, and C languages. LEA-256 is a symmetric key block cipher algorithm developed by the Korea Internet & Security Agency (KISA).
